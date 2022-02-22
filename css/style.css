@@ -1,0 +1,136 @@
+/* Header Section Start here */
+header{
+    background: linear-gradient(180deg, rgba(0,215,255,1) 0%, rgba(0,134,255,1) 100%);
+}
+.logo{
+}
+.menu{}
+.menu ul{}
+.menu ul li{}
+.custom-a{
+    color: rgba(255,255,255,.5) !important;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 20px;
+}
+.custom-a:hover{
+    color: #ffffff !important;
+}
+.dropdown-menu {
+    width: 180px;
+    padding: 0.5rem 4px;
+    font-size:20px;
+    font-size: 20px;
+}
+/* Header Section End here */
+/* Login Page Section Start here */
+.login_page{
+    padding-top: 40px;
+    background: rgba(147,206,222,1);
+}
+form{
+    margin-bottom: 30px;
+    padding: 30px 0;
+    text-align: center;
+    box-shadow: 0 1rem 3rem rgba(0,0,0,.175)!important;
+}
+form a{
+    text-decoration: none;
+}
+form a:hover{
+    font-weight: bold;
+    border-bottom: black 1px solid;
+}
+.red{
+    color: red;
+}
+hr{
+    width: 90%;
+    margin: 15px auto;
+}
+form input{
+    width: 90%;
+    margin: 10px 5px;
+    padding: .25rem 0.5rem;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+}
+.c_btn{
+    margin-top: 15px;
+    margin-bottom: 20px;
+    width: 90%;
+    background-color: #218838;
+    color: #ffffff;
+    border: none;
+    outline: none;
+    padding: 0.5rem 1rem;
+    font-size: 1.25rem;
+    border-radius: 0.3rem;
+    
+}
+.nav-link {
+    padding: 0.5rem 1.94rem;
+}
+.c_signup{
+    width: 95%;
+}
+.signup{
+    color:rgb(88, 158, 88);
+}
+.signup:hover {
+    padding: 5px 47px;
+    color: #fff;
+    background-color: #4a68a8;
+    width: 100%;
+    border-radius: 10px;
+    border: none;
+}
+.f_password{
+   color: yellow;
+
+}
+.f_password:hover{
+    
+}
+/* Login Page Section End here */
+
+/* Footer Section Start here */
+
+footer{
+    padding-top: 30px;
+    background: linear-gradient(22deg, rgba(0,107,244,1) 0%, rgba(53,185,244,1) 100%);
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    font-size: 16px;
+    color: #ffffff;
+}
+footer ul{
+    margin-top: 15px;
+    padding-left: 0;
+    padding-left: 0;
+    display: flex;
+}
+footer ul li{
+    background: black;
+    margin: 0 auto;
+    list-style: none;
+    padding: 5px 10px;
+    border-radius: 40%;
+}
+footer ul li a{
+    color: #ffffff;
+}
+p{
+    text-align: center;
+    font-size: 16px;
+    color: #ffffff;
+}
+.yellow{
+    color: yellow;
+}
+/* Footer Section End here */
